@@ -1,4 +1,4 @@
-# 🏥 Personalized Patient Education System
+## 🏥 Personalized Patient Education System
 
 A comprehensive AI-powered healthcare application that generates personalized educational materials and provides interactive support for patients using Google's Gemini AI.
 
